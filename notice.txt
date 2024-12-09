@@ -1,0 +1,13 @@
+overview 
+	+ tổng nhân sự
+	+ tỉ lệ nghỉ việc
+	+ tuổi trrung bình 
+	+ lương trung bình hằng tháng 
+ phòng ban Research & development có số lượng nhân viên nhiều nhất gần 1k người nhưng chiếm tỉ lệ nghỉ việc thấp nhất với khoảng 14%
+
+trong khi đó phòng sales và HR chiếm số lượng nhân viên ít hơn nhưng tỉ lệ nghỉ việc ở mỗi phòng ban này khoảng 20%
+( Tìm lý do vì sao 2 phòng ban này nv thấp nhưng attrition lại cao ?)
+
+nv trong công ty này có độ tuổi từ 18 đến 60, trong đó tỉ lệ nghỉ việc cao ở nhóm tuổi  khoảng từ 18-25 và tỉ lệ này giảm sau 25 vì ở độ tuổi này người ta cần sự ổn định trong công việc và công sống và cho tới khoảng từ 50 tuổi trở lên thì tăng trở lại vì lúc này độ tuổi này là khoảng thời gian các nv lâu năm nghĩ đến việc nghỉ hơi nên tỉ lệ bắt đầu tăng trở lại
+	-
+(giải thích thêm)
